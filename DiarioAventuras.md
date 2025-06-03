@@ -1,10 +1,10 @@
 # Diario de Aventuras
 
-Fecha:
+Fecha: 3/JUN/2025
 
 Lugar:
 
-Participantes:
+Participantes: Manuel
  
 Resumen de la aventura:
 
